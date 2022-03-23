@@ -5,3 +5,4 @@ class Booking:
 
     def display(self):
         print(self.date)
+ # just a test to see if everything works
